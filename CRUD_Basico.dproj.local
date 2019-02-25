@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/15 01:51:00.000.619,=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/24 23:06:44.000.102,=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/24 23:09:54.000.607,=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/02/24 23:16:40.000.825,C:\Users\Kevin\Dropbox\Delphi\Projetos\CRUD-Básico\uPrincipal.pas=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/24 23:16:40.000.825,C:\Users\Kevin\Dropbox\Delphi\Projetos\CRUD-Básico\uPrincipal.dfm=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/02/24 23:16:53.000.118,C:\Users\Kevin\Dropbox\Delphi\Projetos\CRUD-Básico\uDmPrincipal.dfm=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/02/24 23:16:53.000.118,C:\Users\Kevin\Dropbox\Delphi\Projetos\CRUD-Básico\uDmPrincipal.pas=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/02/24 23:17:37.000.242,C:\Users\Kevin\Dropbox\Delphi\Projetos\CRUD-Básico\CRUD_Basico.dproj=C:\Users\Kevin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
